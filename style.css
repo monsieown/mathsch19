@@ -7,7 +7,7 @@
     align-items: center;
 }
 .header {
-    background-image: url(bg.jpg);
+    background-image: url(img/bg.jpg);
     height: 100vh;
 }
 body {
